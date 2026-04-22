@@ -23,3 +23,6 @@ python app.py
 
 ## Status
 Day 1 complete (rule-based bot, no AI yet)
+
+## Next Step
+- Convert this bot into an AI-powered chatbot using OpenAI API
