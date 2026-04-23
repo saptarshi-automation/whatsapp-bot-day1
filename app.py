@@ -8,7 +8,7 @@ while True:
         print("Bot: We are located in Kolkata.")
 
     elif "hello" in user_input.lower():
-        print("Bot: Hello! How can I help you?")
+        print("Bot: Hello! How can I assist you?")
 
     elif "hoodie" in user_input.lower():
         print("Bot: Yes, hoodies are available!")
